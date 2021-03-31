@@ -1,0 +1,30 @@
+.userContainer {
+  align-self: center;
+  background-color: transparent;
+  width: max-content;
+  color: #fff;
+  height: 200px;
+  overflow: auto;
+  margin-left: 50px;
+}
+
+.userContainer h1 {
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.userBox {
+  display: flex;
+  justify-content: start;
+}
+
+.userBox h5 {
+  margin-right: 10px;
+  font-size: 1.2rem;
+}
+
+.userBox img {
+  width: 10px;
+  height: 10px;
+  align-self: center;
+}
